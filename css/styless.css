@@ -1,4 +1,6 @@
 body {
-    background: color #c1121F;
-    text-emphasis-color: color #fdf0d5;
+    background-color: #fdf0d5;
+}
+h1 {
+    color:#c1121F;
 }
