@@ -7,3 +7,9 @@ h1 {
 h2{
     color:#669BBC;
 }
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+}
